@@ -11,5 +11,5 @@ app.use('/graphql', graphqlHTTP({
 }));
 
 app.listen(4000, ()=>{
-    console.log('test1');
+    console.log('Hi...');
 })
